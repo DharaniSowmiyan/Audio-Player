@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1683299391 source:c:\users\abhilash\downloads\problem sheet\songs\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+
+1683360236 source:c:\users\samridhaa\downloads\songs-20230506t020328z-001\songs\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+
